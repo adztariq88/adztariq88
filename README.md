@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adreis</h1>
 <h3 align="center">A passionate and aspiring Web Developer from Hong Kong, bringing you web development and design by bridging ideas with digital excellence!</h3>
 
-- 🌱 I’m currently learning **html, css, Bootstrap, Tailwind, JavaScript, React.js and Node.js**
+- 🌱 I’m currently learning **Html, Css, Bootstrap, Tailwind, JavaScript, React.js and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://adztariq88.github.io/My-First-WebPortfolio/](https://adztariq88.github.io/My-First-WebPortfolio/)
 
