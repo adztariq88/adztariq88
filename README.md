@@ -1,3 +1,9 @@
+<styles>
+  body {
+    background-color: white;
+  }
+</styles>
+
 <h1 align="center">Hi 👋, I'm Adreis</h1>
 <h3 align="center">A passionate freelance Web Developer from Hong Kong, bringing you web development and design from the future</h3>
 
