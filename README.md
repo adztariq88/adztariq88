@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adreis</h1>
-<h3 align="center">A passionate and aspiring Web Developer from Hong Kong, bringing you web development and design from the future!</h3>
+<h3 align="center">A passionate and aspiring Web Developer from Hong Kong, bringing you web development and design from the universe!</h3>
 
 - 🌱 I’m currently learning **html, css, Bootstrap, Tailwind, JavaScript, React.js and Node.js**
 
