@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Html, Css, Bootstrap, Tailwind, JavaScript, React.js and Node.js**
 
-- 👨‍💻 All of my projects are available at [&#9787;](https://adztariq88.github.io/My-First-WebPortfolio/)
+- 👨‍💻 All of my projects are available at [📒;](https://adztariq88.github.io/My-First-WebPortfolio/)
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me [&#9996;](mailto:adzdev88@gmail.com)
+- 📫 How to reach me [📧 adzdev88@gmail.com)
 
 - ⚡ Fun fact **I am Basketball player and a Coffee lover!**
 
