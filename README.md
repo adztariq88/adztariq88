@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Html, Css, Bootstrap, Tailwind, JavaScript, React.js and Node.js**
 
-- 👨‍💻 All of my projects are available at [&#x263C;](https://adztariq88.github.io/My-First-WebPortfolio/)
+- 👨‍💻 All of my projects are available at [&#9787;](https://adztariq88.github.io/My-First-WebPortfolio/)
 
 - 💬 Ask me about **Anything**
 
