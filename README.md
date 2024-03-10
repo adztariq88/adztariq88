@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me [&#x2709;](adzdev88@gmail.com)
+- 📫 How to reach me [&#x2709;](mailto:adzdev88@gmail.com)
 
 - ⚡ Fun fact **I am Basketball player and a Coffee lover!**
 
