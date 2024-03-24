@@ -9,7 +9,7 @@
 
 - 📫 How to reach me [📧 adzdev88@gmail.com)
 
-- 📜 Certificates: freeCodecamp: [🗂️;]([https://www.freecodecamp.org/certification/Adreis/responsive-web-design])
+- 📜 Certificates: freeCodecamp: [🗂️;](https://www.freecodecamp.org/certification/Adreis/responsive-web-design)
 
 - ⚡ Fun fact **I am Basketball player and a Coffee lover!**
 
