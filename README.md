@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Html, Css, Bootstrap, Tailwind, JavaScript, React.js and Node.js**
 
-- 👨‍💻 All of my projects are available at [🗂️🗂️🗂️;](https://adztariq88.github.io/My-First-WebPortfolio/)
+- 👨‍💻 All of my projects are available at [🗂️🗂️🗂️](https://adztariq88.github.io/My-First-WebPortfolio/)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me [📧 adzdev88@gmail.com)
 
-- 📜 Certificates: freeCodecamp: [🗂️;](https://www.freecodecamp.org/certification/Adreis/responsive-web-design)
+- 🗃️ Certificates: freeCodecamp: [📜](https://www.freecodecamp.org/certification/Adreis/responsive-web-design)
 
 - ⚡ Fun fact **I am Basketball player and a Coffee lover!**
 
