@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [🗂️🗂️🗂️](https://adztariq88.github.io/My-First-WebPortfolio/)
 
-- 📧 How to reach me [adzdev88@gmail.com)
+- 📧 How to reach me: adzdev88@gmail.com
 
 - 📜 Certificates: "[freeCodecamp ⌨](https://www.freecodecamp.org/certification/Adreis/responsive-web-design)"
 
